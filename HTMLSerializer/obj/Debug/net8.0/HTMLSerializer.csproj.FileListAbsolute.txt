@@ -1,0 +1,49 @@
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.exe
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.deps.json
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.runtimeconfig.json
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.pdb
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.AssemblyInfoInputs.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.AssemblyInfo.cs
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.csproj.CoreCompileInputs.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\refint\HTMLSerializer.dll
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.pdb
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.genruntimeconfig.cache
+C:\Users\שרי הימלפרב\Desktop\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\ref\HTMLSerializer.dll
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.exe
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\AllTags.json
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\SelfClosingTags.json
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.deps.json
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.runtimeconfig.json
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.dll
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.pdb
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.AssemblyInfoInputs.cache
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.AssemblyInfo.cs
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.csproj.CoreCompileInputs.cache
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.dll
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\refint\HTMLSerializer.dll
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.pdb
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.genruntimeconfig.cache
+E:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\ref\HTMLSerializer.dll
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.exe
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\AllTags.json
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\SelfClosingTags.json
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.deps.json
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.runtimeconfig.json
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.dll
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HTMLSerializer.pdb
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.AssemblyInfoInputs.cache
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.AssemblyInfo.cs
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.csproj.CoreCompileInputs.cache
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.dll
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\refint\HTMLSerializer.dll
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.pdb
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.genruntimeconfig.cache
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\ref\HTMLSerializer.dll
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.csproj.AssemblyReference.cache
+D:\פרקטיקוד\פרקטיקוד 2\HTMLSerializer\HTMLSerializer\obj\Debug\net8.0\HTMLSerializer.csproj.CopyComplete
